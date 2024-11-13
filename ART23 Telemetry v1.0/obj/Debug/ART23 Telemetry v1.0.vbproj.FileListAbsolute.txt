@@ -1,0 +1,49 @@
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.exe.config
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.exe
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.pdb
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.xml
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.vbproj.AssemblyReference.cache
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23_Telemetry_v1._0.Form1.resources
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23_Telemetry_v1._0.Resources.resources
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.vbproj.GenerateResource.cache
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.vbproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.exe
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.xml
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.pdb
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\ShellProgressBar.dll
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\ShellProgressBar.xml
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.vbproj.CopyComplete
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\CircularProgressBar.dll
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\WinFormAnimation.dll
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\CircularProgressBar.xml
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.exe.manifest
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.application
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.exe.manifest
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.application
+C:\Users\Δημήτρης\source\repos\ART23 Telemetry v1.0\obj\Debug\ART23_Telemetry_v1._0.Form2.resources
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.vbproj.AssemblyReference.cache
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.exe
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.xml
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.pdb
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.exe.config
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.exe.manifest
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.application
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.exe
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.pdb
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\ART23 Telemetry v1.0.xml
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\CircularProgressBar.dll
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\ShellProgressBar.dll
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\WinFormAnimation.dll
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\CircularProgressBar.xml
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\bin\Debug\ShellProgressBar.xml
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23_Telemetry_v1._0.Form1.resources
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23_Telemetry_v1._0.Form2.resources
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23_Telemetry_v1._0.Resources.resources
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.vbproj.GenerateResource.cache
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.vbproj.CoreCompileInputs.cache
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.exe.manifest
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Telemetry v1.0.application
+C:\Users\theop\Downloads\ART23 Telemetry v1.0\obj\Debug\ART23 Te.9CA5A921.Up2Date

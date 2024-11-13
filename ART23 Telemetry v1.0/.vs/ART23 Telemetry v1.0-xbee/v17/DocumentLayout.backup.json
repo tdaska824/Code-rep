@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C006C89-5942-4E2B-9AA2-A3D63E01E55A}|ART23 Telemetry v1.0.vbproj|c:\\users\\theop\\downloads\\art23 telemetry v1.0\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7C006C89-5942-4E2B-9AA2-A3D63E01E55A}|ART23 Telemetry v1.0.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C006C89-5942-4E2B-9AA2-A3D63E01E55A}|ART23 Telemetry v1.0.vbproj|C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7C006C89-5942-4E2B-9AA2-A3D63E01E55A}|ART23 Telemetry v1.0.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C006C89-5942-4E2B-9AA2-A3D63E01E55A}|ART23 Telemetry v1.0.vbproj|C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7C006C89-5942-4E2B-9AA2-A3D63E01E55A}|ART23 Telemetry v1.0.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAuwFYBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-07T13:34:39.754Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\Form1.Designer.vb*",
+              "RelativeToolTip": "Form1.Designer.vb*",
+              "ViewState": "AgIAAAgCAAAAAAAAAAAUwBkCAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-07T13:35:20.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\theop\\Downloads\\ART23 Telemetry v1.0\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-07T13:55:38.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
