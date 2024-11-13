@@ -1,0 +1,16 @@
+../Core/Src/main.c:83:9:debounce	16	static
+../Core/Src/main.c:101:6:upshift	8	static
+../Core/Src/main.c:129:6:open_upshift	8	static
+../Core/Src/main.c:148:6:neutral_upshift	8	static
+../Core/Src/main.c:160:6:downshift	8	static
+../Core/Src/main.c:192:6:downshift_with_upper_magnet	8	static
+../Core/Src/main.c:222:6:open_downshift	8	static
+../Core/Src/main.c:235:5:BitShiftCombine	24	static
+../Core/Src/main.c:243:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+../Core/Src/main.c:276:5:main	8	static
+../Core/Src/main.c:462:6:SystemClock_Config	88	static
+../Core/Src/main.c:508:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:553:13:MX_CAN_Init	48	static
+../Core/Src/main.c:603:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:636:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:681:6:Error_Handler	4	static,ignoring_inline_asm

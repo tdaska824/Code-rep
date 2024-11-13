@@ -1,0 +1,16 @@
+../Core/Src/main.c:83:9:debounce	7
+../Core/Src/main.c:101:6:upshift	5
+../Core/Src/main.c:129:6:open_upshift	3
+../Core/Src/main.c:148:6:neutral_upshift	2
+../Core/Src/main.c:160:6:downshift	5
+../Core/Src/main.c:192:6:downshift_with_upper_magnet	5
+../Core/Src/main.c:222:6:open_downshift	2
+../Core/Src/main.c:235:5:BitShiftCombine	1
+../Core/Src/main.c:243:6:HAL_CAN_RxFifo0MsgPendingCallback	6
+../Core/Src/main.c:276:5:main	10
+../Core/Src/main.c:462:6:SystemClock_Config	4
+../Core/Src/main.c:508:13:MX_ADC1_Init	3
+../Core/Src/main.c:553:13:MX_CAN_Init	2
+../Core/Src/main.c:603:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:636:13:MX_GPIO_Init	1
+../Core/Src/main.c:681:6:Error_Handler	1
